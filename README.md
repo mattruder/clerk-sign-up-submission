@@ -13,6 +13,7 @@ Overall, I really enjoyed learning about Clerk. Their docs are great, and their 
 ## Technologies Used
 
 React.js |
+TypeScript |
 Clerk |
 HTML |
 CSS
